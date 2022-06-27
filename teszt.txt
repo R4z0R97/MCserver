@@ -4,3 +4,4 @@ yoyo
 yomüködikezaszarvágod
 dátum
 pullteszt
+yopull
