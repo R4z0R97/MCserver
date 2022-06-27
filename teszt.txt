@@ -5,3 +5,4 @@ yomüködikezaszarvágod
 dátum
 pullteszt
 yopull
+mégyobbpushteszt
